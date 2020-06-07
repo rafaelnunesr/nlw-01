@@ -85,7 +85,7 @@ Before downloading or cloning this project, you need to download and install <a 
     $ npm install
 
     Run the application
-    $ npm run start
+    $ npm start
 
     The application will start at the port :3000 [http://localhost:3000]
     
