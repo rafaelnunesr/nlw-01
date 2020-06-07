@@ -14,7 +14,7 @@
   
   Companies can register their information, like what they recycle, their address, phone number, and email and the users can see at the map where these companies are and contact them through their phone number or email.
   
-  Users can use the platform on their smartphones (android or iOS) and the website.
+  Users can use the platform on their smartphones (android or iOS) or the website.
 </p>
 
 <h3>
